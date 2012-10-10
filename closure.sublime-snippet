@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[(function(window${1:, ${2}}) {
+	${3:"use strict";}
+	${0:// body...}
+
+})(window${1});
+]]></content>
+    <tabTrigger>close</tabTrigger>
+    <scope>source.js</scope>
+    <description>closure function</description>
+</snippet>
