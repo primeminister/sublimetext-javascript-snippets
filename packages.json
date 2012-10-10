@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Javascript snippets",
+			"description": "Sublime Text 2 JavaScript snippets",
+			"author": "primeminister",
+			"homepage": "https://github.com/primeminister/sublimetext-javascript-snippets",
+			"last_modified": "2012-10-10 18:00:00",
+			"platforms": {
+				"osx": [
+					{
+						"version": "1.0",
+						"url": "https://github.com/primeminister/sublimetext-javascript-snippets/zipball/v1.0"
+					}
+				]
+			}
+		}
+	]
+}
